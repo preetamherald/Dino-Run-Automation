@@ -3,6 +3,7 @@ import pyautogui
 import time
 from numpy import *
 
+#change the coordinates as per your display
 class Coordinates():
     replayBtn = (340, 390)
     dino = (199, 400)
